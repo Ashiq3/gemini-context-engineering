@@ -8,7 +8,7 @@ A comprehensive template for getting started with Context Engineering - the disc
 
 ```bash
 # 1. Clone this template
-git clone https://github.com/coleam00/gemini-context-engineering.git
+git clone https://github.com/Ashiq3/gemini-context-engineering.git
 cd gemini-context-engineering
 
 # 2. Set up your project rules (optional - template provided)
